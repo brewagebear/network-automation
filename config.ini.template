@@ -1,0 +1,5 @@
+; config.ini
+[DEFAULT]
+EOS_COMMAND_API_ENDPOINT = https://arista-command-api-host:443/command-api
+EOS_COMMAND_API_USER = user
+EOS_COMMAND_API_PASSWORD = user
